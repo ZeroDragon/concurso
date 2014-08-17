@@ -4,6 +4,7 @@ Concurso de Verano
 ##Requerimientos
 
 - [node.js](http://nodejs.org/)
+- [Git](http://git-scm.com/)
 
 ##Instalación
 
