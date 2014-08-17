@@ -4,7 +4,7 @@ Concurso de Verano
 ##Requerimientos
 
 - [node.js](http://nodejs.org/)
-	- [npm](https://www.npmjs.org/) (viene con git en algunos SO)
+	- [npm](https://www.npmjs.org/) (viene con nodejs en algunos SO)
 - [Git](http://git-scm.com/)
 
 ##Instalación
