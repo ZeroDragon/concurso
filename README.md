@@ -9,7 +9,7 @@ Concurso de Verano
 
 - Primero hacemos un clon de este repositorio
 
-		git clone ######
+		git clone git@github.com:ZeroDragon/concurso.git
 
 - Luego dentro del repositorio instalamos las dependencias con:
 
